@@ -89,7 +89,6 @@ class SplayDataStruct:
             return None
         return j
 
-# this is also a template for the other method __RR for this I will keep the space between the code.
     def __LL(self, node):
         gp = node.parent.parent
         p = node.parent
